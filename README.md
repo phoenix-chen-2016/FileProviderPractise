@@ -1,1 +1,2 @@
 # FileProviderPractise
+EmbeddedFileProvider 使用練習
